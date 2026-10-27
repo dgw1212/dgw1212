@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
+### 🚀 Computer Science Student & Aspiring Software Engineer
 
-<!--
-**dgw1212/dgw1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com[Your_GitHub_ID]&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 🎓 **Education:** Pursuing a B.S. in Computer Science at **[Your University Name]**
+- 💡 **Interests:** [Web Development / Artificial Intelligence / Mobile Apps / Cloud Computing]
+- 🌱 **Currently Learning:** Deepening my knowledge in **[e.g., React, Spring Boot, Docker, or Kubernetes]**
+- 🎯 **Goal:** Passionate about writing clean, efficient, and scalable code to solve real-world problems.
+
+## 🛠️ Tech Stacks
+
+### 💻 Languages
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+### 🌐 Frameworks & Libraries
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+### ⚙️ Tools & Databases
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app[Your_GitHub_ID]&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://vercel.app[Your_GitHub_ID]&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email:** [your.email@example.com]
+- 📝 **Tech Blog:** [Link to your blog]
+- 💼 **LinkedIn:** [Link to your LinkedIn profile]
