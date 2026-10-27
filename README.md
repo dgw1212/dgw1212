@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [dgw1212]!
 ### 🚀 Computer Science Student & Aspiring Software Engineer
 
 <p align="left">
@@ -8,7 +8,7 @@
 ---
 
 ## 📌 About Me
-- 🎓 **Education:** Pursuing a B.S. in Computer Science at **[Your University Name]**
+- 🎓 **Education:** Pursuing a B.S. in Computer Science at **[keimyung Univercity]**
 - 💡 **Interests:** [Web Development / Artificial Intelligence / Mobile Apps / Cloud Computing]
 - 🌱 **Currently Learning:** Deepening my knowledge in **[e.g., React, Spring Boot, Docker, or Kubernetes]**
 - 🎯 **Goal:** Passionate about writing clean, efficient, and scalable code to solve real-world problems.
